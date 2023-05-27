@@ -17,8 +17,6 @@ For statistical analysis EDA was performed.
   
 Selection of features that are more relevant for prediction.
   
-For predicting value of targeted value 'Multiple Regression' model is used.
- 
 By feeding the training dataset to the models each of the model is trained.
 
 The project uses metrics like Accuracy and R-square score as evaluation parameters for models.
